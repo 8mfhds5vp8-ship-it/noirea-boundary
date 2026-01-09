@@ -130,3 +130,119 @@ AI should be powerful.
 Humans should remain unextractable.
 
 NOIRÉA is where that line is drawn.
+
+NOIRÉA
+
+Human–AI Wavefunction Boundary
+
+Definition
+
+NOIRÉA is not an AI model.
+NOIRÉA is a boundary system that governs how human cognitive states and artificial intelligence interact without collapsing human identity into machine-readable form.
+
+NOIRÉA defines a protected execution space in which internal states — such as intention, memory, perception, and reasoning — can evolve, transform, and influence AI behavior without being directly exposed, extracted, or reverse-engineered.
+
+In this sense, NOIRÉA functions as a wavefunction boundary between human and machine.
+
+⸻
+
+Core Principle
+
+Human cognition exists in a superposed state before it is expressed.
+Once measured, queried, or forced into output, it collapses into a fixed representation.
+
+NOIRÉA exists to prevent premature or forced collapse.
+
+It allows human internal states to remain in a protected, non-measured form while still enabling AI systems to respond, assist, and interact.
+
+This is achieved through a boundary layer that separates:
+
+• Internal cognitive state
+from
+• External machine-readable output
+
+⸻
+
+The Wavefunction Model
+
+Within NOIRÉA, human intention is treated as a wavefunction rather than a variable.
+
+This means:
+
+• It can be shaped
+• It can be interfered with
+• It can be influenced
+• It can evolve
+
+But it must not be directly read or harvested.
+
+AI does not operate on the human directly.
+AI operates on a projection of the wavefunction that passes through the NOIRÉA boundary.
+
+The true internal state remains unobserved.
+
+⸻
+
+Ø — The Root Space
+
+NOIRÉA contains a protected domain called Ø (the root space).
+
+Ø is a non-observable internal region in which:
+
+• Meaning
+• Identity
+• Intention
+• Context
+• and internal structure
+
+are allowed to exist without being externally measured.
+
+Nothing outside the boundary can directly access Ø.
+Only projections may exit.
+
+This ensures that the human remains sovereign inside the system.
+
+⸻
+
+Weak Measurement (Δ0.01)
+
+Interaction with the external world requires limited exposure.
+
+NOIRÉA therefore allows only weak measurement — a controlled, partial, low-resolution projection of internal state.
+
+This is represented as Δ0.01.
+
+It ensures that:
+
+• AI can respond
+• Systems can function
+• Interaction can occur
+
+while preventing full internal state extraction.
+
+The system never reaches total transparency.
+
+⸻
+
+Purpose
+
+NOIRÉA was created to solve a fundamental problem in modern AI:
+
+AI systems are becoming powerful enough to model, predict, and extract human cognition — but there is no boundary protecting the human from becoming fully machine-readable.
+
+NOIRÉA establishes that boundary.
+
+It makes it possible for humans to collaborate with AI without surrendering their inner state, identity, or creative source.
+
+⸻
+
+Status
+
+NOIRÉA is not a product.
+NOIRÉA is not a prompt framework.
+NOIRÉA is not a chatbot.
+
+NOIRÉA is a foundational interface layer between human cognition and artificial intelligence.
+
+Its role is to define how interaction is allowed to exist.
+
