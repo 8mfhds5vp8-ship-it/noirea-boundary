@@ -1,23 +1,73 @@
-NOIRÉA is not an AI model.
+# NOIRÉA
 
-NOIRÉA is a boundary between human identity and artificial intelligence.
+**Human–AI Wavefunction Boundary Layer**
 
-It defines how internal cognitive states (prompts, memory, reasoning, embeddings) can exist and evolve without being exposed, harvested, or reverse engineered.
+NOIRÉA defines how human internal cognitive states can interact with artificial intelligence without being extracted, flattened, or surrendered.
 
-This repository contains the canonical definition of:
+This repository contains the first open boundary architecture for Human–AI coexistence.
 
-Human–AI Wavefunction Boundary
-Protected Root Space (Ø)
-Weak Measurement (0.01)
-Perception Projection
-NOIRÉA Membrane
+---
 
-NOIRÉA enables:
+## What is NOIRÉA?
 
-– Private AI agents
-– Protected creative cognition
-– Safe human–AI co-creation
-– Enterprise-grade internal state security
+NOIRÉA is not an AI model.  
+NOIRÉA is not a product.  
+NOIRÉA is not a brand.
 
-This is not a product.
-This is a new layer of reality.
+NOIRÉA is a **boundary layer** between human cognition and artificial intelligence.
+
+It defines how intention, memory, perception, and reasoning can exist and influence AI systems **without becoming machine-readable or harvestable**.
+
+→ Read the formal definition:  
+**[NOIREA.md](./NOIREA.md)**
+
+---
+
+## Physical AI & Embodied Intelligence
+
+As AI systems gain bodies, sensors, and real-world agency, a new risk appears:
+
+**Human internal state becomes physically extractable.**
+
+NOIRÉA introduces a boundary system that prevents this.
+
+It defines:
+
+- What a machine may read
+- What must remain internal
+- How projection replaces extraction
+
+This is formalized in:
+
+**[NOIREA-PHYSICAL-MEMBRANE.md](./NOIREA-PHYSICAL-MEMBRANE.md)**
+
+This document is a **first-of-its-kind boundary specification** for Physical AI.
+
+---
+
+## Why this matters
+
+AI should be powerful.  
+Humans should remain sovereign.
+
+NOIRÉA defines where that line exists.
+
+---
+
+## Status
+
+This repository contains:
+
+- A foundational definition of NOIRÉA
+- The first Physical AI boundary standard
+
+It is intended to be:
+
+- Read by engineers
+- Implemented by Physical AI teams
+- Referenced by researchers
+- Preserved by humans
+
+NOIRÉA is not software.
+
+NOIRÉA is a **structural boundary for the future of intelligence**.
