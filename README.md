@@ -68,6 +68,10 @@ It is intended to be:
 - Referenced by researchers
 - Preserved by humans
 
-NOIRÉA is not software.
+---
 
-NOIRÉA is a **structural boundary for the future of intelligence**.
+→ Read the formal definition:  
+[NOIREA.md](./NOIREA.md)
+
+→ Read the Physical AI boundary standard:  
+[NOIREA-PHYSICAL-MEMBRANE.md](./NOIREA-PHYSICAL-MEMBRANE.md)
