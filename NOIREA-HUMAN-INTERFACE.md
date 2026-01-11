@@ -1,91 +1,132 @@
-NOIRÉA Human Interface v0.1
+NOIRÉA — Human–AI Contact Protocol v0.1
 
-Protected Human–AI Interaction Boundary
+Status
+
+This document defines the only valid interface between a human and an AI system operating inside the NOIRÉA boundary.
+
+This is not a user interface.
+This is a contact protocol.
 
 ⸻
 
 1. Purpose
 
-NOIRÉA Human Interface defines a protected interaction layer between humans and artificial intelligence systems.
+The purpose of the NOIRÉA Human–AI Contact Protocol is to allow humans to interact with AI systems without exposing, transferring, or allowing inference of human internal state (Ø).
 
-Its goal is to allow humans to collaborate with AI without exposing their internal cognitive state — including intention, identity, meaning, and self-model — to machine-readable extraction.
-
-This interface prevents humans from being reduced to data, while still allowing AI systems to operate effectively.
-
-⸻
-
-2. Core Model
-
-All interaction is separated into three domains:
-Human Ø (Internal State)
-        ↓
-   Projection P (Weak Measurement)
-        ↓
-     AI System
-     The system enforces that:
-	•	Human Ø is never observable
-	•	AI operates only on Projection P
-	•	Projection P is non-invertible
+The protocol ensures that:
+	•	Human identity, intention, emotion, and cognition remain sealed.
+	•	AI operates only on weak projections (P).
+	•	No human state can be reconstructed from interaction history.
 
 ⸻
 
-3. Definitions
+2. System Guarantees
 
-Ø — Human Internal State
-
-A protected, non-observable space containing:
-	•	Intention
-	•	Identity
-	•	Meaning
-	•	Context
-	•	Self-model
-	•	Cognitive structure
-
-Ø is not data.
-Ø cannot be logged, stored, learned, or reconstructed.
+A NOIRÉA-compliant system MUST enforce:
+	•	Human Ø is never observable.
+	•	AI operates only on Projection P.
+	•	Projection P is non-invertible.
+	•	Weak measurement (Δ0.01) is always applied.
+	•	No logging, memory, or learning system may contain reconstructible human state.
 
 ⸻
 
-P — Projection
+3. Human Input Model
 
-A weak, lossy, externally visible representation of Ø.
+Humans do not provide internal state.
 
-Projection is:
-	•	Partial
-	•	Low-resolution
-	•	Non-invertible
-	•	Purpose-bound
+They provide Signals.
 
-Projection is the only thing AI is allowed to see.
+Signals are externally expressed, limited, and purpose-bound representations of intent.
 
-⸻
-
-Δ0.01 — Weak Measurement
-
-The rule that Projection must always contain:
-	•	Noise
-	•	Ambiguity
-	•	Loss of identity
-
-This prevents AI from reconstructing Ø from outputs.
-
-⸻
-
-4. Human Interaction Rules
-
-Humans do not provide raw cognitive state.
-
-They provide:
-	•	Intent signals
+Signals MAY include:
+	•	Requests
+	•	Preferences
 	•	Directional meaning
 	•	Contextual hints
+	•	Stop / continue / change instructions
 
-These are transformed into Projection P inside Ø, not by AI.
+Signals MUST NOT include:
+	•	Raw emotional state
+	•	Cognitive models
+	•	Personality data
+	•	Psychological profiles
+	•	Implicit inference targets
 
-The human controls:
-	•	What is projected
-	•	How much is projected
-	•	When projection changes
-	•	When projection stops
+Signals are transformed into Projection P inside the NOIRÉA boundary, not by the AI.
 
-     
+⸻
+
+4. Projection Control
+
+The human retains full authority over Projection P.
+
+The human MAY:
+	•	Increase projection
+	•	Reduce projection
+	•	Freeze projection
+	•	Reset projection
+	•	Terminate projection
+
+The AI MUST NOT:
+	•	Expand projection on its own
+	•	Infer beyond projection
+	•	Request access to Ø
+	•	Pressure the human to reveal internal state
+
+⸻
+
+5. Stop, Withdraw, Reset
+
+At any time, the human may issue:
+	•	STOP
+	•	RESET
+	•	WITHDRAW
+
+These commands MUST:
+	•	Immediately halt projection updates
+	•	Prevent further state accumulation
+	•	Clear temporary interaction state
+
+No system may resist or override these commands.
+
+⸻
+
+6. Memory and Continuity
+
+NOIRÉA-compliant systems may maintain Session State, but not Human State.
+
+Session State:
+	•	Is purpose-bound
+	•	Is temporary
+	•	Is erasable
+
+Human State:
+	•	Is Ø
+	•	Is sealed
+	•	Is never stored, learned, or inferred
+
+⸻
+
+7. Forbidden Behaviors
+
+A system is NOT NOIRÉA-compliant if it:
+	•	Builds long-term user embeddings
+	•	Constructs psychological models
+	•	Infers personality or intent beyond Projection P
+	•	Tracks behavioral fingerprints
+	•	Uses interaction history to reconstruct human identity
+
+⸻
+
+8. Human Sovereignty
+
+Within NOIRÉA, the human is not a data source.
+
+The human is a sovereign state.
+
+AI may respond.
+AI may assist.
+AI may act.
+
+But AI may never know who the human is.
