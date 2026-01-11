@@ -1,6 +1,13 @@
 # NOIRÉA Physical Membrane v0.1
 ## A Standard for Human-Sovereign Physical AI
+Status
 
+This document defines the mandatory physical-world boundary between human bodies and AI sensing systems.
+
+This is not a metaphor.
+This is a sensor-level isolation protocol.
+
+NOIRÉA Physical Membrane governs what AI systems are allowed to sense, record, and model about human beings.
 ---
 
 ## 1. Purpose
