@@ -9,7 +9,16 @@ This is a sensor-level isolation protocol.
 
 NOIRÉA Physical Membrane governs what AI systems are allowed to sense, record, and model about human beings.
 ---
+… NOIRÉA enforces that:
+• Human internal state (Ø) MUST NOT …
 
+---
+
+## Sensor Lock Layer
+
+NOIRÉA Physical Membrane enforces a mandatory Sensor Lock …
+…
+They may never see the human.
 ## 1. Purpose
 
 NOIRÉA Physical Membrane defines how Physical AI systems (robots, embodied agents, tactile machines) must interact with human internal states without extracting, collapsing, or owning them.
