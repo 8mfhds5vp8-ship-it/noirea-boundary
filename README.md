@@ -82,3 +82,27 @@ this boundary defines what must never be extracted.
 
 © NOIRÉA
 Human–AI Wavefunction Boundary Standard
+
+
+Legal & Usage Notice
+
+NOIRÉA is a publicly published technical boundary specification.
+
+It is not a product, service, software system, or AI model.
+It does not provide, operate, or guarantee any form of safety, security, or compliance.
+
+NOIRÉA defines conceptual and technical boundary rules that other systems may choose to implement.
+
+Any implementation of NOIRÉA is the responsibility of the implementing party.
+
+The authors and contributors of NOIRÉA are not responsible for:
+- how the standard is implemented
+- how AI systems behave
+- how data is collected, processed, or stored
+- any harm, loss, or misuse arising from any implementation
+
+NOIRÉA does not certify, validate, or endorse any system, company, or product.
+
+Reference to NOIRÉA does not imply compliance.
+
+Only explicit, independently verified implementations may claim conformity.
