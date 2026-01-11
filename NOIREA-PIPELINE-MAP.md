@@ -8,7 +8,23 @@ NOIRÉA 是 Human Internal State（不可讀） 與 Machine Control Output（可
 ⸻
 
 1) 標準 Physical AI Pipeline（世界的語言）
+— NOIRÉA Boundary Injection —
 
+NOIRÉA inserts a mandatory human-state isolation layer into the Physical AI pipeline.
+
+Between:
+    State Estimation → Representation → Policy
+
+NOIRÉA enforces that:
+
+• Human internal state (Ø) MUST NOT be included in any state, embedding, or latent representation.
+• Only weak, non-invertible Projection (P) may enter Representation or Policy.
+• No policy, planner, or learning system may optimize against or infer Ø.
+• Logging, telemetry, and replay buffers MUST NOT contain any data capable of reconstructing Ø.
+
+Any Physical AI system that violates these constraints is NOT NOIRÉA-compliant.
+
+— End NOIRÉA Boundary Injection —
 Physical AI 一般會長這樣（不管你叫它 Isaac/Omniverse/或任何機器人堆疊）：
 	1.	Sensors →
 	2.	Preprocessing / Filtering →
