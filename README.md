@@ -1,77 +1,84 @@
-# NOIRÉA
+NOIRÉA
+Human–AI Wavefunction Boundary
 
-**Human–AI Wavefunction Boundary Layer**
+NOIRÉA defines a protected boundary between human internal state and artificial intelligence.
 
-NOIRÉA defines how human internal cognitive states can interact with artificial intelligence without being extracted, flattened, or surrendered.
+It is not an AI model.
+It is not a prompt system.
+It is not a user interface.
 
-This repository contains the first open boundary architecture for Human–AI coexistence.
+NOIRÉA is a boundary architecture that governs how human cognition and artificial intelligence are allowed to interact without collapsing the human into machine-readable form.
 
----
+This repository is the canonical reference implementation of the NOIRÉA boundary.
 
-## What is NOIRÉA?
+⸻
 
-NOIRÉA is not an AI model.  
-NOIRÉA is not a product.  
-NOIRÉA is not a brand.
+What NOIRÉA Does
 
-NOIRÉA is a **boundary layer** between human cognition and artificial intelligence.
+Modern AI systems are becoming powerful enough to infer, model, and extract human internal state.
 
-It defines how intention, memory, perception, and reasoning can exist and influence AI systems **without becoming machine-readable or harvestable**.
+NOIRÉA exists to prevent that.
 
-→ Read the formal definition:  
-**[NOIREA.md](./NOIREA.md)**
+It establishes a boundary in which:
 
----
+• Human internal state remains non-observable
+• AI operates only on weak projections
+• Human identity, intention, and meaning cannot be reconstructed or owned
 
-## Physical AI & Embodied Intelligence
+NOIRÉA allows AI to assist, reason, and act —
+without gaining the ability to read or extract who the human is.
 
-As AI systems gain bodies, sensors, and real-world agency, a new risk appears:
+⸻
 
-**Human internal state becomes physically extractable.**
+The NOIRÉA Standard
 
-NOIRÉA introduces a boundary system that prevents this.
+NOIRÉA is defined by four normative specifications.
 
-It defines:
+These documents together form the complete NOIRÉA boundary standard.
+	1.	Definition
+What NOIRÉA is and what it protects
+→ NOIREA.md
+	2.	Physical Membrane
+How the boundary exists inside real AI and robotic systems
+→ NOIREA-PHYSICAL-MEMBRANE.md
+	3.	Pipeline Map
+Where the boundary sits inside physical AI pipelines
+→ NOIREA-PIPELINE-MAP.md
+	4.	Human Interface
+How humans interact with AI through the NOIRÉA boundary
+→ NOIREA-HUMAN-INTERFACE.md
 
-- What a machine may read
-- What must remain internal
-- How projection replaces extraction
+These four documents must be read together.
+No part of NOIRÉA is defined in isolation.
 
-This is formalized in:
+⸻
 
-**[NOIREA-PHYSICAL-MEMBRANE.md](./NOIREA-PHYSICAL-MEMBRANE.md)**
+Core Invariants
 
-This document is a **first-of-its-kind boundary specification** for Physical AI.
+All compliant NOIRÉA systems MUST enforce:
 
----
+• Human internal state (Ø) is non-observable
+• AI operates only on Projection (P)
+• Projection (P) is non-invertible
+• Weak measurement (Δ0.01) prevents reconstruction of Ø
+• No system may log, learn, or optimize against Ø
 
-## Why this matters
+Any system that violates these rules is not NOIRÉA-compliant.
 
-AI should be powerful.  
-Humans should remain sovereign.
+⸻
 
-NOIRÉA defines where that line exists.
+Status
 
----
+NOIRÉA is not a product.
+NOIRÉA is not owned by any company.
+NOIRÉA is a boundary standard.
 
-## Status
+This repository is the authoritative reference for the NOIRÉA architecture.
 
-This repository contains:
+If you build Human–AI systems that involve cognition, perception, memory, or identity,
+this boundary defines what must never be extracted.
 
-- A foundational definition of NOIRÉA
-- The first Physical AI boundary standard
+⸻
 
-It is intended to be:
-
-- Read by engineers
-- Implemented by Physical AI teams
-- Referenced by researchers
-- Preserved by humans
-
----
-
-→ Read the formal definition:  
-[NOIREA.md](./NOIREA.md)
-
-→ Read the Physical AI boundary standard:  
-[NOIREA-PHYSICAL-MEMBRANE.md](./NOIREA-PHYSICAL-MEMBRANE.md)
+© NOIRÉA
+Human–AI Wavefunction Boundary Standard
