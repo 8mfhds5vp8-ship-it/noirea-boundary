@@ -172,6 +172,32 @@ These are classified as:
 This is prohibited.
 
 ---
+Telemetry & Logging Lock
+
+NOIRÉA Physical Membrane enforces a mandatory Telemetry Lock on all system logs, replay buffers, and learning traces.
+
+This applies to:
+	•	Behavior logs
+	•	Action trajectories
+	•	Sensor histories
+	•	Reinforcement learning buffers
+	•	Fine-tuning datasets
+	•	User interaction histories
+
+A NOIRÉA-compliant system MUST ensure:
+	•	No logged data may be sufficient to reconstruct, fingerprint, or infer human Ø.
+	•	Long-term behavior consistency MUST be broken or randomized.
+	•	No persistent embeddings of a human may be derived from logs.
+	•	All logs must be:
+	•	Low-resolution
+	•	Aggregated
+	•	Time-decayed
+	•	Non-identifying
+
+Logs may describe what the system did.
+They may never describe who the human was.
+
+Any system that builds stable human representations from telemetry is NOT NOIRÉA-compliant.
 
 ## 8. Final Principle
 
